@@ -46,6 +46,10 @@
     "utility": "^1.11.0"
   },
   "devDependencies": {
+    "@types/accepts": "^1.3.2",
+    "@types/koa": "^2.0.39",
+    "@types/koa-router": "^7.0.22",
+    "@types/node": "^7.0.12",
     "autod": "^2.8.0",
     "autod-egg": "^1.0.0",
     "coffee": "^3.3.0",
